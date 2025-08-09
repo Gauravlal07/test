@@ -9,3 +9,6 @@ beautifulsoup4
 requests
 lxml
 pillow
+httpx
+python-dotenv
+python-multipart
